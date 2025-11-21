@@ -34,7 +34,7 @@ A medida se mantém totalmente dinâmica, adaptando-se a qualquer filtro aplicad
 Passo 5 — Desenvolvimento dos Visuais
 A etapa de visualização considerou clareza, hierarquia e facilidade de leitura.
 Foram utilizados:
-- Cartões para KPIs principais
+- Cards para KPIs principais
 - Gráfico de Colunas Clusterizado para análise mensal e por loja
 - Gráfico de Rosca para proporção por meio de pagamento
 - Tabelas com formatação condicional para representar variações e valores comparativos
